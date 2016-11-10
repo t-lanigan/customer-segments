@@ -1,4 +1,4 @@
-# Project 3: Unsupervised Learning
+# Unsupervised Learning
 ## Creating Customer Segments
 
 Check out the HTML [page](https://t-lanigan.github.io/customer-segments/)
