@@ -1,6 +1,8 @@
 # Project 3: Unsupervised Learning
 ## Creating Customer Segments
 
+Check out the HTML [page](https://t-lanigan.github.io/customer-segments/)
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
